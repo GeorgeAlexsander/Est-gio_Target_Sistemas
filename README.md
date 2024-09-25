@@ -23,7 +23,7 @@ Este repositório contém soluções para as cinco questões do desafio Target, 
      - O menor valor de faturamento ocorrido em um dia do mês.
      - O maior valor de faturamento ocorrido em um dia do mês.
      - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal, ignorando dias sem faturamento.
-   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/tree/main/Questao_3_daily_revenue)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/blob/main/Questao_3_daily_revenue/daily_revenue.py)
 
 4. **Faturamento Mensal por Estado**: 
    - Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
