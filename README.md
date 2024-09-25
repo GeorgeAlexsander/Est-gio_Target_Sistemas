@@ -12,18 +12,18 @@ Este repositório contém soluções para as cinco questões do desafio Target, 
      Imprimir(SOMA);
      ```
      Ao final do processamento, qual será o valor da variável SOMA?
-   - [Solução aqui](link-para-solucao-1)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/blob/main/Questao_1_sum_calculation/sum_calculation.py)
 
 2. **Sequência de Fibonacci**: 
    - Dado um número, escreva um programa que calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência. O número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código.
-   - [Solução aqui](link-para-solucao-2)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/blob/main/Questao_2_fibonacci_check/fibonacci_check.py)
 
 3. **Faturamento Diário**: 
    - Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa que calcule e retorne:
      - O menor valor de faturamento ocorrido em um dia do mês.
      - O maior valor de faturamento ocorrido em um dia do mês.
      - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal, ignorando dias sem faturamento.
-   - [Solução aqui](link-para-solucao-3)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/tree/main/Questao_3_daily_revenue)
 
 4. **Faturamento Mensal por Estado**: 
    - Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -33,11 +33,11 @@ Este repositório contém soluções para as cinco questões do desafio Target, 
      - ES – R$27.165,48
      - Outros – R$19.849,53
    - Escreva um programa onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
-   - [Solução aqui](link-para-solucao-4)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/blob/main/Questao_4_revenue_by_state/revenue_by_state.py)
 
 5. **Inversão de String**: 
    - Escreva um programa que inverta os caracteres de uma string. A string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código. Evite usar funções prontas, como, por exemplo, reverse.
-   - [Solução aqui](link-para-solucao-5)
+   - [Solução aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/blob/main/Questao_5_string_reversal/string_reversal.py)
 
 ## Tecnologias Utilizadas
 
@@ -51,14 +51,10 @@ Para executar as soluções, clone este repositório e utilize um interpretador 
 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório e enviar pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a [Sua Licença].
-
 ## Desenvolvedor
 
 👤 **George Flores**
 
 ## Link do Repositório
 
-[Seu Link do GitHub Aqui](https://github.com/seu-usuario/seu-repositorio)
+[Seu Link do GitHub Aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/tree/main)
