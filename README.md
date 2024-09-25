@@ -55,6 +55,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repos
 
 👤 **George Flores**
 
+## Link do meu github para ver mais dos meus projetos
+
+[Link do Repositório](https://github.com/GeorgeAlexsander/)
+
 ## Link do Repositório
 
-[Seu Link do GitHub Aqui](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/tree/main)
+[Link do Repositório](https://github.com/GeorgeAlexsander/Estagio_Target_Sistemas/tree/main)
