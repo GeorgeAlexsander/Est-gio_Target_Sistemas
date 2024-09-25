@@ -57,7 +57,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repos
 
 ## Link do meu github para ver mais dos meus projetos
 
-[Link do Repositório](https://github.com/GeorgeAlexsander/)
+[Veja mais projetos aqui](https://github.com/GeorgeAlexsander/)
 
 ## Link do Repositório
 
